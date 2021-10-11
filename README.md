@@ -1,5 +1,5 @@
 # powercrypt
-# Powershell function to Encrypt / decrypt with AES
+# Powershell function to Encrypt / Decrypt a text with AES
 
 Powershell function to encrypt or decrypt a text just by calling the function with a password.
 
