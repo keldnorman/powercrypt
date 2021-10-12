@@ -15,3 +15,5 @@ Example of decrypting a text
 ![Decrypting](https://github.com/keldnorman/powercrypt/blob/main/example_decrypt.png)
 
 /Keld
+
+Credits: https://github.com/Techsupport4me/David-Powershell/blob/master/Scripts/encrypt-decrypt-string.ps1
